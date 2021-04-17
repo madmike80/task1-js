@@ -6,9 +6,21 @@
     "@babel/core": "*",
     "@babel/preset-env": "*",
     "babel-jest": "*",
-    "jest": "*"
+    "jest": "^26.6.3"
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "description": "> [Задачник по JavaScript от Web Hero School](https://lk.webheroschool.ru/teach/control/stream/view/id/169442572/)",
+  "main": "hello.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madmike80/task1-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madmike80/task1-js/issues"
+  },
+  "homepage": "https://github.com/madmike80/task1-js#readme"
 }
